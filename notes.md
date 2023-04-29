@@ -1,0 +1,2 @@
+This "chapter-10" folder is the homework of html lesson I learned and completed previously.
+I will use this one to do the css lesson as well. DO NOT, I repeat, DO NOT delete it under any circumstances.
